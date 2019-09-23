@@ -224,7 +224,8 @@ int main()
 	cout<<"$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$"<<endl;
 	cout<<"\t\t\t\t WELCOME"<<endl;
 	cout<<"\t\t\t\t   TO"<<endl;
-	cout<<"\t\t\t     RED DRAGON BANK"<<endl<<endl;
+	cout<<"\t\t\t     RED DRAGON BANK"<<endl;
+	cout<<"\t\t     https://github.com/AryanFelix"<<endl<<endl;
 	cout<<"$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$"<<endl<<endl;
 	cout<<"\t\t How can we help you today?"<<endl;
 	cout<<"\t\t Press the adjacent number"<<endl<<endl;
@@ -294,5 +295,6 @@ int main()
 	system("CLS");
 	cout<<"\t\tThank you for using our online portal"<<endl;
 	cout<<"\t\t\t     RED DRAGON BANK"<<endl<<endl;
+	cout<<"\t\t     https://github.com/AryanFelix"<<endl<<endl;
 	return 0;
 }
